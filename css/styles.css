@@ -52,7 +52,9 @@ body {
   color: #404bbf;
   text-decoration: underline;
 }
-
+.contacts {
+  font-style: normal;
+}
 .contacts-link {
   text-decoration: none;
   font-style: normal;
